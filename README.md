@@ -1,3 +1,6 @@
+
+under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
+
 # Sales Analysis Report
 
 ## Introduction
